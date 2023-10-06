@@ -1,16 +1,8 @@
 # treetracker
+Added QR scan feature
+Screenshots:
 
-A new Flutter project.
 
-## Getting Started
+![WhatsApp Image 2023-10-06 at 15 31 27_781b28b7](https://github.com/Sajithrajan03/TreeTracker--Know-your-Trees/assets/93327106/9c928616-cef3-4c1c-a9a1-e9f634131848)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-10-06 at 15 31 26_0fe029ed](https://github.com/Sajithrajan03/TreeTracker--Know-your-Trees/assets/93327106/12f404a6-7f56-4a5e-aebc-d07cc270be12)
