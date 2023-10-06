@@ -14,7 +14,7 @@ class TreeviewState extends State<Treeview> {
         appBar: AppBar(
             backgroundColor: Colors.green,
             centerTitle: true,
-            title:Text('Neem Tree'),
+            title: const Text('Neem Tree'),
             ),
         body: Container(
             decoration: const BoxDecoration(
@@ -29,7 +29,7 @@ class TreeviewState extends State<Treeview> {
             child: ListView(children: <Widget>[
               Container(
                 height: 250,
-                decoration: BoxDecoration(
+                decoration: const BoxDecoration(
                   gradient: LinearGradient(
                     colors: [Color.fromARGB(255, 40, 175, 89), Color.fromARGB(255, 63, 106, 222)],
                     begin: Alignment.centerLeft,
@@ -44,10 +44,10 @@ class TreeviewState extends State<Treeview> {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceAround,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                           backgroundColor: Colors.white70,
                           minRadius: 35.0,
-                          child: const Icon(
+                          child: Icon(
                             Icons.add_location_rounded,
                             
                             
